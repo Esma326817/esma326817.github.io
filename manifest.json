@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
-  "description": "Ïðèëîæåíèå äëÿ ñëó÷àéíîãî âûáîðà ïåðñîíàæåé íàñòîëüíîé èãðû Unmatched",
+  "description": "Unmatched Character Randomizer",
   "orientation": "portrait",
   "icons": [
     {
