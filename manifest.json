@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://github.com/ra3iel-cmd/ra3iel.github.io/blob/main/images.png",
+      "src": "https://raw.githubusercontent.com/ra3iel-cmd/ra3iel.github.io/refs/heads/main/images.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
